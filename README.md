@@ -1,22 +1,22 @@
-# 🌟 Welcome to Antoine Brias's GitHub
+# 🌟 Welcome to Antoine Brias's GitHub 🌟
 
-Hello! I am Antoine Brias, a data scientist and researcher specializing in **machine learning**, **data analysis**, and **ecological modeling**. My work spans several domains, including **simulation**, **statistical modeling**, and **environmental science**, with a strong focus on innovative and impactful solutions.
+Hello! I am Antoine Brias, a data scientist and researcher specializing in **machine learning**, **data analysis**, and **ecological modeling**. My work spans several domains, including **simulation**, **statistical modeling**, and **fishery science**, with a strong focus on innovative and impactful solutions.
 
 ---
 
-## 🧪 Research
-- **[Coalition Simulator](https://github.com/antoinebrias/coalition)**  
-  A web application to explore coalition possibilities after the 2024 French legislative elections.  
+## 🧪 Research (Code of my scientific papers)
+- **[Empirical dynamic programming (EDP)](https://github.com/antoinebrias/EDP2)**  
+  A research paper with Steve Munch focused on the development of EDP framework.  
   Features:  
-  - Simulate coalition dynamics based on various criteria (number of parties, seats, political distance).  
-  - Visualize the impact of coalitions on governance composition.  
-  - Built with Python, Flask, and interactive visualizations.  
+  -  a non-parametric model for the dynamics is estimated from time series data using Gaussian process-based dynamic modeling 
+  -  a policy is then derived from the inferred dynamics using a temporal difference learning algorithm (MATLAB)
 
-- **[Cockle Trees](https://github.com/antoinebrias/cockle_trees)**  
-  A research project focused on modeling ecological dynamics, particularly within cockle populations.  
+- **[Model-free ecosystem based management using EDP](https://github.com/antoinebrias/EDP2)**  
+  A research paper with Steve Munch focused on performance of EDP in ecosystem management.  
   Features:  
-  - Simulations for environmental impact studies.  
-  - Tools to analyze population changes over time.  
+  - MATLAB implementation of EDP aglorithm.  
+  - Violin plot of the simulation results
+
 
 ---
 
@@ -31,11 +31,13 @@ Hello! I am Antoine Brias, a data scientist and researcher specializing in **mac
   Features:  
   - A LLM-based summary of info from Fishbase
 
-- **[Fish Focused Chatbot](https://github.com/antoinebrias/fish-chatbot)**  
-  A chatbot leveraging OpenAI's API and GBIF data to provide insights into fish species distribution.  
+- **[Fish Focused Chatbot](https://github.com/antoinebrias/chatbot_whaly)**  
+  This web application is designed to provide information about fish species and their distribution. The chatbot utilizes an OpenAI language model to answer user queries and generate distribution maps for various fish species 
   Features:  
-  - Query fish species and visualize distribution maps.  
-  - Designed for researchers, educators, and environmentalists.  
+  - Conversational Interface: Ask questions about fish and receive informative responses.   
+  - Taxon Identification: The chatbot identifies and provides information on specific fish taxa
+  - Distribution Mapping: Generates maps showing the distribution of fish species based on user queries using GBIF API.
+  - Follow-Up Suggestions: Offers suggestions for continuing the conversation based on user input
 
 ---
 
@@ -60,6 +62,18 @@ Crop repartition by number of blocks and number of modalities
   - Streamlit app
   - CNN training
 
+ - **[Coalition Simulator](https://github.com/antoinebrias/coalition)**  
+  A web application to explore coalition possibilities after the 2024 French legislative elections.  
+  Features:  
+  - Simulate coalition dynamics based on various criteria (number of parties, seats, political distance).  
+  - Visualize the impact of coalitions on governance composition.  
+  - Built with Python, Flask, and interactive visualizations.  
+
+- **[Cockle Trees](https://github.com/antoinebrias/cockle_trees)**  
+  A research project focused on modeling ecological dynamics, particularly within cockle populations.  
+  Features:  
+  - Simulations for environmental impact studies.  
+  - Tools to analyze population changes over time.  
 
 ---
 
@@ -73,21 +87,11 @@ Crop repartition by number of blocks and number of modalities
 
 ---
 
-## :cherries: Miscellaneous
-- **[Sankey Diagram Code Generator](https://github.com/antoinebrias/sankey_formatter)**  
-  Python script generating code snippets for creating Sankey diagrams in different formats  
-  Using:  
-  - SankeyMATIC: A web-based tool for creating Sankey diagrams.  
-  - Plotly (Python): An interactive plotting library for Python.
-  - networkD3 (R): An R package for interactive network diagrams.
-
----
-
 
 ## 🔗 Connect with Me
 Feel free to explore my repositories and collaborate!  
 You can also check out my other work:  
-- [Personal Website/Blog](https://your-link-here)  
-- 📫 [Email Me](mailto:your-email-here)  
+- [Personal Blog]([https://your-link-here](https://www.briaslab.fr/blog/))  
+- 📫 [Email Me](mailto:antoinebrias[@]gmail.com)  
 
 Let’s build something impactful together!
