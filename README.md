@@ -90,7 +90,7 @@ Crop repartition by number of blocks and number of modalities
 ## 🔗 Connect with Me
 Feel free to explore my repositories and collaborate!  
 You can also check out my other work:  
-- [Personal Blog]([https://your-link-here](https://www.briaslab.fr/blog/))  
+- [Personal Blog](https://www.briaslab.fr/blog/)
 - 📫 [Email Me](mailto:antoinebrias[@]gmail.com)  
 
 Let’s build something impactful together!
