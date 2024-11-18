@@ -89,3 +89,17 @@ You can also check out my other work:
 - 📫 [Email Me](mailto:antoinebrias[@]gmail.com)  
 
 Let’s build something impactful together!
+
+
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
+
+<div align="center">
+   <a href="https://github.com/TobyG74/">
+     <img src="https://github-readme-stats.vercel.app/api?username=antoinebrias&&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true" width="450" alt="antoinebrias"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoinebrias&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="antoinebrias"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebrias&layout=compact&theme=synthwave" width="450"  alt="antoinebrias"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=antoinebrias&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="antoinebrias"/>
+   </a>
+</div>
