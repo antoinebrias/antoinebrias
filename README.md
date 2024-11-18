@@ -50,25 +50,7 @@ Hello! I am Antoine Brias, a data scientist and researcher specializing in **mac
   - Taxon Identification: The chatbot identifies and provides information on specific fish taxa
   - Distribution Mapping: Generates maps showing the distribution of fish species based on user queries using GBIF API.
   - Follow-Up Suggestions: Offers suggestions for continuing the conversation based on user input
-
-
----
-
-## 🧪 Research (Code of my scientific papers)
-- **[Empirical dynamic programming (EDP)](https://github.com/antoinebrias/EDP2)**  
-  A research paper with Steve Munch focused on the development of EDP framework.  
-  Features:  
-  -  a non-parametric model for the dynamics is estimated from time series data using Gaussian process-based dynamic modeling 
-  -  a policy is then derived from the inferred dynamics using a temporal difference learning algorithm (MATLAB)
-
-- **[Model-free ecosystem based management using EDP](https://github.com/antoinebrias/EDP2)**  
-  A research paper with Steve Munch focused on performance of EDP in ecosystem management.  
-  Features:  
-  - MATLAB implementation of EDP aglorithm.  
-  - Violin plot of the simulation results
-
-
-## :chart_with_upwards_trend: Dataviz
+    
 - **[Sankey Diagram Code Generator](https://github.com/antoinebrias/sankey_formatter)**  
   Python script generating code snippets for creating Sankey diagrams in different formats  
   Using:  
@@ -84,6 +66,20 @@ Crop repartition by number of blocks and number of modalities
   Features:  
   - Shiny R script for generating crop repartition based on number of blocks, number of modalities and neighborhood constraints.
 
+---
+
+## 🧪 Research (Code of my scientific papers)
+- **[Empirical dynamic programming (EDP)](https://github.com/antoinebrias/EDP2)**  
+  A research paper with Steve Munch focused on the development of EDP framework.  
+  Features:  
+  -  a non-parametric model for the dynamics is estimated from time series data using Gaussian process-based dynamic modeling 
+  -  a policy is then derived from the inferred dynamics using a temporal difference learning algorithm (MATLAB)
+
+- **[Model-free ecosystem based management using EDP](https://github.com/antoinebrias/EDP2)**  
+  A research paper with Steve Munch focused on performance of EDP in ecosystem management.  
+  Features:  
+  - MATLAB implementation of EDP aglorithm.  
+  - Violin plot of the simulation results
 ---
 
 ## 🔗 Connect with Me
