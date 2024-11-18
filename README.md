@@ -1,6 +1,6 @@
 # 🌟 Welcome to Antoine Brias's GitHub 🌟
 
-Hello! I am Antoine Brias, a data scientist and researcher specializing in **machine learning**, **data analysis**, and **ecological modeling**. My work spans several domains, including **simulation**, **statistical modeling**, and **fishery science**, with a strong focus on innovative and impactful solutions.
+Hello! I am Antoine Brias, a data scientist and researcher specializing in **machine learning**, **data analysis**, and **ecological modeling**. My work spans several domains, including **simulation**, **statistical modeling**, and **fishery science**.
 
 ---
 
@@ -38,14 +38,6 @@ Hello! I am Antoine Brias, a data scientist and researcher specializing in **mac
   - Taxon Identification: The chatbot identifies and provides information on specific fish taxa
   - Distribution Mapping: Generates maps showing the distribution of fish species based on user queries using GBIF API.
   - Follow-Up Suggestions: Offers suggestions for continuing the conversation based on user input
-
----
-
-## 🌍 Environmental Science
-- **[Crop repartition](https://github.com/antoinebrias/crop_repartition)**  
-Crop repartition by number of blocks and number of modalities
-  Features:  
-  - Shiny R script for generating crop repartition based on number of blocks, number of modalities and neighborhood constraints.
 
 ---
 
@@ -87,6 +79,13 @@ Crop repartition by number of blocks and number of modalities
 
 ---
 
+## 🌍 Environmental Science
+- **[Crop repartition](https://github.com/antoinebrias/crop_repartition)**  
+Crop repartition by number of blocks and number of modalities
+  Features:  
+  - Shiny R script for generating crop repartition based on number of blocks, number of modalities and neighborhood constraints.
+
+---
 
 ## 🔗 Connect with Me
 Feel free to explore my repositories and collaborate!  
