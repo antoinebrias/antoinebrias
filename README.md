@@ -36,6 +36,12 @@ Hello! I am Antoine Brias, a data scientist and researcher specializing in **mac
 ---
 
 ## :fish: Fishery Science
+- **[Cetacean Detection Simulation]([https://github.com/antoinebrias/pfisheries](https://github.com/antoinebrias/ocean_detection))**  
+ Simulated Cetacean Movement: A dynamic model for simulating cetacean behavior taking into account movement correlation strength (a demo is available here : [https://antoinebrias-ocean-detection-streamlit-main-uzzcfa.streamlit.app/])
+    - Hydrophone Detection: hydrophones placed at random locations, detecting cetacean positions based on a set of predefined rules.
+    - Real-Time Interactive Visualization: Utilizes Plotly and Streamlit to create heatmaps and trajectory plots, to represent cetacean density and movement patterns.
+    - Error Metrics: Implements Mean Squared Error (MSE) calculations to assess the accuracy of the detection process, comparing the simulated detection data to the actual positions.
+
 - **[pfisheries](https://github.com/antoinebrias/pfisheries)**  
  Conversion of the original R project rfisheries by Karthik Ram, Carl Boettiger and Andrew Dyck 
   - Programmatic access to the Open Fisheries API  
